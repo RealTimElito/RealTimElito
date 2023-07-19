@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @RealTimElito
-- 👀 I’m interested in Cybersecurity, mathematics and theoretical quantum physics.
-- 🌱 I’m currently learning Computer science.
-- 💞️ I’m looking to collaborate on Nothing at the moment.
-- 📫 How to reach me gmail: ctfmail42@gmail.com
+I am a Metaverse and Machine Learning developer, this repo will for my personal projects.
+Python, JavaScript, C, C++ are the languages I am the most comfortable in, though I can
+figure out how a lot of other languages work.
 
-<!---
-RealTimElito/RealTimElito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Link to my LinkedIn: https://linkedin.com/in/timeriksson
